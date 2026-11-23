@@ -1,0 +1,12 @@
+codigo,tipo_fonte,tipo_valor,valor_literal,unidade,iva,atualizacao_indicada_na_pagina,data_recolha
+PT-1,clínica em Portugal,preço próprio,"pode custar desde 2300 euros até 6700 euros",por intervenção (1.000 a 3.000 unidades foliculares),não consta,não consta,2026-11-09
+PT-2,clínica em Portugal,valor de mercado,"em Lisboa o valor pode variar entre os 2500€ e os 7000€",por transplante (Lisboa),não consta,2022 (metadados),2026-11-09
+PT-3,clínica em Portugal,valor de mercado,"os preços variam em média entre 3000€ e 6000€",por transplante,não consta,ago. 2025 (metadados),2026-11-09
+PT-4,clínica em Portugal,valor de mercado,"encontram-se com frequência valores entre os 4.000 e os 6.000 euros",por transplante,não consta,não consta,2026-11-09
+PT-5 a PT-11,clínicas em Portugal (7),sem valor,"avaliação, simulador ou «on request»",—,—,—,2026-11-09
+C-1,portal,«preço em Portugal»,"2 500 € e 6 000 €",por intervenção,não consta,15-out-2026,2026-11-09
+E-1,clínica estrangeira,«preço em Portugal»,"3.500 € e 9.000 €",por intervenção,não consta,set. 2026,2026-11-09
+E-2,clínica estrangeira,«preço em Portugal»,"4.000 € e 10.000 €",por intervenção,não consta,set. 2026,2026-11-09
+E-3,clínica estrangeira,«preço em Portugal»,"6000€ e 10000€",por transplante,não consta,abr. 2025,2026-11-09
+E-4,clínica estrangeira,«preço em Portugal»,"8.000 € – 15.000 € (FUE) · 11.000 € – 17.000 € (DHI)",por intervenção,não consta,abr. 2026,2026-11-09
+E-4 (citando um «guia de turismo médico»),clínica estrangeira,«preço em Portugal»,"12.000 €–25.000 €",por intervenção,não consta,abr. 2026,2026-11-09

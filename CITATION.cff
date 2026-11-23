@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite-os da seguinte forma."
+title: "Levantamento de preços de transplante capilar em Portugal (novembro de 2026)"
+type: dataset
+authors:
+  - name: "Global Health Hair — Dpto. Marketing"
+date-released: 2026-11-09
+version: "1.0"
+doi: 10.5281/zenodo.24484776
+license: CC-BY-4.0
+url: "https://transplantecapilarturquiapt.com/precos-transplante-capilar-portugal-levantamento/"
+repository: "https://archive.org/details/levantamento-precos-transplante-capilar-portugal-2026"
+keywords:
+  - transplante capilar
+  - preços
+  - Portugal
+  - IVA
+  - transparência de preços
