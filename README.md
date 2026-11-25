@@ -4,6 +4,8 @@ Dados abertos do levantamento publicado em https://transplantecapilarturquiapt.c
 
 - DOI (Zenodo): [10.5281/zenodo.24484776](https://doi.org/10.5281/zenodo.24484776)
 - Cópia no Internet Archive: https://archive.org/details/levantamento-precos-transplante-capilar-portugal-2026
+- Também no Kaggle: https://www.kaggle.com/datasets/globalhealthhair/precos-transplante-capilar-portugal-2026
+- Também no Hugging Face: https://huggingface.co/datasets/global-health-hair/levantamento-precos-transplante-capilar-portugal-2026
 
 ## O que contém
 - `levantamento-precos-transplante-capilar-portugal-2026.csv`: um registo por valor publicado, com código anónimo (PT-1, E-1…), tipo de fonte, tipo de valor, valor literal, unidade, IVA, atualização indicada na página e data de recolha.
